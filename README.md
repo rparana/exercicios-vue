@@ -1,3 +1,3 @@
 # Exemplos de códigos VUE
 
-## cada pasta possui um exercicio
+## Cada pasta possui um exercicio em VueJs para iniciantes
